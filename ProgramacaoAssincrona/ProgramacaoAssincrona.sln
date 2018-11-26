@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacaoAssincrona", "ProgramacaoAssincrona\ProgramacaoAssincrona.csproj", "{DA04C1DD-06FF-4E6C-86BD-2BE91DFC9892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaSite", "ConsultaSite\ConsultaSite.csproj", "{7C58A4BE-DFDA-48E3-9FFD-E0D5856A7A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA04C1DD-06FF-4E6C-86BD-2BE91DFC9892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA04C1DD-06FF-4E6C-86BD-2BE91DFC9892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA04C1DD-06FF-4E6C-86BD-2BE91DFC9892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA04C1DD-06FF-4E6C-86BD-2BE91DFC9892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C58A4BE-DFDA-48E3-9FFD-E0D5856A7A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C58A4BE-DFDA-48E3-9FFD-E0D5856A7A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C58A4BE-DFDA-48E3-9FFD-E0D5856A7A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C58A4BE-DFDA-48E3-9FFD-E0D5856A7A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337A037D-7B33-45DE-AF7D-9FB035FD03F0}
+	EndGlobalSection
+EndGlobal

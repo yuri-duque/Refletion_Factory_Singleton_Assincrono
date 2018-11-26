@@ -1,0 +1,10 @@
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\bin\Debug\netcoreapp2.1\ConsultaSite.deps.json
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\bin\Debug\netcoreapp2.1\ConsultaSite.runtimeconfig.json
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\bin\Debug\netcoreapp2.1\ConsultaSite.runtimeconfig.dev.json
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\bin\Debug\netcoreapp2.1\ConsultaSite.dll
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\bin\Debug\netcoreapp2.1\ConsultaSite.pdb
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\obj\Debug\netcoreapp2.1\ConsultaSite.csproj.CoreCompileInputs.cache
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\obj\Debug\netcoreapp2.1\ConsultaSite.AssemblyInfoInputs.cache
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\obj\Debug\netcoreapp2.1\ConsultaSite.AssemblyInfo.cs
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\obj\Debug\netcoreapp2.1\ConsultaSite.dll
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ConsultaSite\obj\Debug\netcoreapp2.1\ConsultaSite.pdb

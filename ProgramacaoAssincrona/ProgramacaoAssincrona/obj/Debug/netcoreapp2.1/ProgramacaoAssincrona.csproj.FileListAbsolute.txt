@@ -1,0 +1,11 @@
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\netcoreapp2.1\ProgramacaoAssincrona.deps.json
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\netcoreapp2.1\ProgramacaoAssincrona.runtimeconfig.json
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\netcoreapp2.1\ProgramacaoAssincrona.runtimeconfig.dev.json
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\netcoreapp2.1\ProgramacaoAssincrona.dll
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\netcoreapp2.1\ProgramacaoAssincrona.pdb
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\netcoreapp2.1\ProgramacaoAssincrona.csprojAssemblyReference.cache
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\netcoreapp2.1\ProgramacaoAssincrona.csproj.CoreCompileInputs.cache
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\netcoreapp2.1\ProgramacaoAssincrona.AssemblyInfoInputs.cache
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\netcoreapp2.1\ProgramacaoAssincrona.AssemblyInfo.cs
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\netcoreapp2.1\ProgramacaoAssincrona.dll
+D:\Yuri\Refletion\RefletionAndFactory\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\netcoreapp2.1\ProgramacaoAssincrona.pdb
